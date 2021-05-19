@@ -1,0 +1,23 @@
+#-----------------------------------------------------------
+# Vivado v2016.2 (64-bit)
+# SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+# IP Build 1577682 on Fri Jun  3 12:00:54 MDT 2016
+# Start of session at: Tue Dec 31 15:40:14 2019
+# Process ID: 6816
+# Current directory: C:/Users/User/Desktop/HW6-a/binary_up_counter
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent15012 C:\Users\User\Desktop\HW6-a\binary_up_counter\binary_up_counter.xpr
+# Log file: C:/Users/User/Desktop/HW6-a/binary_up_counter/vivado.log
+# Journal file: C:/Users/User/Desktop/HW6-a/binary_up_counter\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/User/Desktop/HW6-a/binary_up_counter/binary_up_counter.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Users/User/Desktop/binary_up_counter' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2016.2/data/ip'.
+open_project: Time (s): cpu = 00:00:10 ; elapsed = 00:00:07 . Memory (MB): peak = 736.711 ; gain = 104.297
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Dec 31 16:30:08 2019...
